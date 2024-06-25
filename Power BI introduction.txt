@@ -1,0 +1,55 @@
+PowerBI is a business intelligent tool that will help you to extract data from different sources,
+clean the data , analyze the data and based on your analysis create visual representations in the form 
+of various and to understand , reports and attractive dashboards.
+
+Power BI ia collection of components:
+
+Power Query - 
+
+Power Pivot - Used for data modelling.If you want to connect multiple data sources,
+buil relationships between them.
+
+Power View - For creating reports and visually appealing dashboard with the help of
+numerous different types of charts.
+
+Power BI Service - For publishing reports.
+
+
+Different BI tools other that Power BI.
+
+here are several Business Intelligence (BI) tools available besides Power BI. These tools help organizations analyze data and present actionable information to aid in decision-making. Here are some popular BI tools:
+
+Tableau: Known for its strong data visualization capabilities, Tableau allows users to create a wide range of interactive and shareable dashboards.
+
+QlikView / Qlik Sense: Qlik offers two primary BI tools. QlikView is more traditional with guided analytics, whereas Qlik Sense provides a more modern approach with self-service data discovery.
+
+SAP BusinessObjects: A suite of front-end applications that allow business users to view, sort, and analyze BI data.
+
+Microsoft Excel: While not exclusively a BI tool, Excel has robust data analysis and visualization capabilities, especially when combined with add-ons like Power Query and Power Pivot.
+
+IBM Cognos Analytics: Offers a wide range of BI features, including reporting, analytics, scorecarding, and monitoring of events and metrics.
+
+Looker: A data-discovery platform that offers powerful data exploration capabilities, particularly strong in integrating with BigQuery and other cloud databases.
+
+Sisense: Known for its ability to handle large datasets, Sisense provides a comprehensive BI solution that includes data preparation, visualization, and reporting.
+
+Domo: A cloud-based platform that offers BI tools designed to deliver detailed business insights through data visualizations, real-time dashboards, and social collaboration.
+
+MicroStrategy: Provides enterprise-level analytics capabilities, with tools for data discovery, advanced analytics, and mobile BI.
+
+TIBCO Spotfire: Offers data visualization, analytics, and business intelligence tools, particularly useful for data-driven decision-making.
+
+Oracle BI: A comprehensive suite including interactive dashboards, ad hoc analysis, proactive intelligence, and more.
+
+Zoho Analytics: A self-service BI and data analytics software that allows users to create visually appealing data visualizations and insightful dashboards.
+
+Yellowfin BI: An integrated platform that includes BI, data visualization, and data storytelling, focusing on collaboration and providing a single source of truth.
+
+Dundas BI: Offers extensive data visualization capabilities along with ad-hoc reporting and data discovery features.
+
+SAP Lumira: A data visualization tool that helps in creating and sharing interactive data visualizations.
+
+Power BI
+  Power BI Desktop - For development purpose.
+  Power BI service - It is an online cloud service for publishing yor work.
+
